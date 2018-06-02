@@ -1,6 +1,6 @@
 
 const Discord = require('discord.js');
-const token = require('auth.json').token;
+const token = require('./auth.json').token;
 
 let bot = new Discord.Client()
 

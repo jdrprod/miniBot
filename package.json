@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jdrprod/miniBot/issues"
   },
-  "homepage": "https://github.com/jdrprod/miniBot#readme"
+  "homepage": "https://github.com/jdrprod/miniBot#readme",
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  }
 }
